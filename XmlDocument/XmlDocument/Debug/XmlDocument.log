@@ -1,0 +1,7 @@
+﻿  XmlDocument.cpp
+  XmlParser.cpp
+  XmlElement.cpp
+  xmlElementParts.cpp
+  Tokenizer.cpp
+  Generating Code...
+  XmlDocument.vcxproj -> C:\Users\pranika\Documents\Visual Studio 2015\Projects\NoSQL_Pranika\InMemoryDb\Debug\XmlDocument.lib

@@ -1,0 +1,1 @@
+devenv InMemoryDb.sln /rebuild Debug
